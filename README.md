@@ -1,5 +1,3 @@
-<img src="https://your-banner-image-url.com/banner.png" alt="Banner Image" style="width:100%; height:auto;"/>
-
 # Hi there, I'm Khoirunnisa Salsabila Osmon 👋
 
 🌟 I'm a passionate developer with a love for creating beautiful and functional web and mobile applications.
